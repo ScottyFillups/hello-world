@@ -1,0 +1,13 @@
+{
+  "name": "test-hello-world-print",
+  "description": "Package to test the hello-world-print module",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "print-hello-world": "file:../print-hello-world-1.0.0.tgz"
+  }
+}

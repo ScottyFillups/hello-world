@@ -1,0 +1,12 @@
+{
+  "name": "print-hello-world",
+  "version": "1.0.0",
+  "description": "A module that prints out 'hello, world'",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ScottyFillups/print-hello-world"
+  },
+  "author": "Philip Scott <pscott@zeptohost.com>",
+  "license": "MIT"
+}
