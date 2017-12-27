@@ -1,3 +1,3 @@
-var helloWorld = require('print-hello-world')
+var helloWorld = require('@scottyfillups/hello-world')
 
 helloWorld()

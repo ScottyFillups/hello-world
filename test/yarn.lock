@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-"print-hello-world@file:../print-hello-world-1.0.0.tgz":
+"@scottyfillups/hello-world@../scottyfillups-hello-world-1.0.0.tgz":
   version "1.0.0"
-  resolved "file:../print-hello-world-1.0.0.tgz#167560418bb753c5b458ba196fbf2b885ca57362"
+  resolved "../scottyfillups-hello-world-1.0.0.tgz#09d9d2689e9fb89e69e4fba741734758d433c7cd"
